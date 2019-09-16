@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Дарья Пехтерева](https://up.htmlacademy.ru/javascript/16/user/822295).
-* Наставник: `Владимир Якушкин`.
+* Студент: 
+* Наставник:
 
 ---
 
